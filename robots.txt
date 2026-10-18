@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /includes/
+Disallow: /config/
+Disallow: /storage/
+Disallow: /database/
+Disallow: /docs/
+Sitemap: https://shopnowafrica.com/sitemap.xml

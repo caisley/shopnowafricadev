@@ -1,0 +1,7 @@
+storage/submissions/*.json
+storage/private_uploads/*
+!storage/submissions/.gitkeep
+!storage/private_uploads/.gitkeep
+.env
+config/config.php
+*.zip
